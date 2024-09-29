@@ -1,6 +1,6 @@
 # Stubborn Developer 
 # Don't Remove Credit 🥺
-# Telegram Channel @Stubborn1223
+# Telegram Channel @Alex_Aditya9
 
 
 import os
@@ -30,4 +30,4 @@ class temp(object):
 
 # Stubborn Developer 
 # Don't Remove Credit 🥺
-# Telegram Channel @Stubborn1223
+# Telegram Channel @Alex_Aditya9
