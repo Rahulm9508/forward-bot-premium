@@ -1,6 +1,6 @@
 # Stubborn Developer 
 # Don't Remove Credit 🥺
-# Telegram Channel @Stubborn1223
+# Telegram Channel @Alex_Aditya9
 
 
 from bot import Bot
@@ -15,4 +15,4 @@ app.run()
 
 # Stubborn Developer 
 # Don't Remove Credit 🥺
-# Telegram Channel @Stubborn1223
+# Telegram Channel @Alex_Aditya9
